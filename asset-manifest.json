@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.com/pizzeria/static/css/main.4379c34b.css",
-    "main.js": "/github.com/pizzeria/static/js/main.ad65b4ce.js",
-    "static/js/453.2e505874.chunk.js": "/github.com/pizzeria/static/js/453.2e505874.chunk.js",
-    "index.html": "/github.com/pizzeria/index.html",
-    "main.4379c34b.css.map": "/github.com/pizzeria/static/css/main.4379c34b.css.map",
-    "main.ad65b4ce.js.map": "/github.com/pizzeria/static/js/main.ad65b4ce.js.map",
-    "453.2e505874.chunk.js.map": "/github.com/pizzeria/static/js/453.2e505874.chunk.js.map"
+    "main.css": "/nithiya-manoharan/pizzerian/static/css/main.fcc99fd6.css",
+    "main.js": "/nithiya-manoharan/pizzerian/static/js/main.171c14ec.js",
+    "static/js/453.2e505874.chunk.js": "/nithiya-manoharan/pizzerian/static/js/453.2e505874.chunk.js",
+    "index.html": "/nithiya-manoharan/pizzerian/index.html",
+    "main.fcc99fd6.css.map": "/nithiya-manoharan/pizzerian/static/css/main.fcc99fd6.css.map",
+    "main.171c14ec.js.map": "/nithiya-manoharan/pizzerian/static/js/main.171c14ec.js.map",
+    "453.2e505874.chunk.js.map": "/nithiya-manoharan/pizzerian/static/js/453.2e505874.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4379c34b.css",
-    "static/js/main.ad65b4ce.js"
+    "static/css/main.fcc99fd6.css",
+    "static/js/main.171c14ec.js"
   ]
 }
