@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.com/pizzeria/static/css/main.4379c34b.css",
+    "main.js": "/github.com/pizzeria/static/js/main.ad65b4ce.js",
+    "static/js/453.2e505874.chunk.js": "/github.com/pizzeria/static/js/453.2e505874.chunk.js",
+    "index.html": "/github.com/pizzeria/index.html",
+    "main.4379c34b.css.map": "/github.com/pizzeria/static/css/main.4379c34b.css.map",
+    "main.ad65b4ce.js.map": "/github.com/pizzeria/static/js/main.ad65b4ce.js.map",
+    "453.2e505874.chunk.js.map": "/github.com/pizzeria/static/js/453.2e505874.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4379c34b.css",
+    "static/js/main.ad65b4ce.js"
+  ]
+}
