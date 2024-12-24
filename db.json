@@ -67,7 +67,6 @@
       "description": "A rich and creamy pizza featuring a blend of four different cheeses for a decadent taste."
     },
     {
-      "id": "7",
       "image": "https://t3.ftcdn.net/jpg/07/24/12/56/240_F_724125658_qizUgdYsynvoBfL9jg1UIp0TAIiREZFK.jpg",
       "name": "Meat Lovers Pizza",
       "size": "12",
@@ -75,7 +74,8 @@
       "toppings": "Tomato sauce, mozzarella cheese, pepperoni, sausage, ham, bacon",
       "cooking": "Conventional Oven",
       "price": 600,
-      "description": "A hearty pizza loaded with various meats, perfect for meat enthusiasts."
+      "description": "A hearty pizza loaded with various meats, perfect for meat enthusiasts.",
+      "id": "7"
     }
   ]
 }
