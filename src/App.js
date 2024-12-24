@@ -8,15 +8,16 @@ import DeleteItem from "./DeleteItem";
 import ContactUs from "./ContactUs";
 import Footer from "./Footer";
 import UpdateForm from "./UpdateForm";
-import { Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App(){
   return(
+    <Router basename="/pizzeria">
       <>
         <Menu/>
 
         <Routes>
-          <Route path="/home" element={<Home/>}/>
+          <Route path="/" element={<Home/>}/>
           <Route path="/about" element={<About/>}/>
           <Route path="/all-items" element={<AllItem/>}/>
           <Route path="/add-new-item" element={<NewItem/>}/>
@@ -28,6 +29,7 @@ function App(){
 
         <Footer/>
       </>
+    </Router>
   )
 }
 
