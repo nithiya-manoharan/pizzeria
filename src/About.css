@@ -1,0 +1,30 @@
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.about-container h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.about-container h2 {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.about-container p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+main.aboutMain{
+  background-image: url(https://t3.ftcdn.net/jpg/07/26/85/36/240_F_726853653_2WnAS1TErKjuD5c4f49t12O29fdFmeEL.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}

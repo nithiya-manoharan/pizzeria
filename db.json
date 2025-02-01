@@ -1,0 +1,81 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "image": "https://t4.ftcdn.net/jpg/02/58/22/91/240_F_258229133_2zxdF9wx8ZcPSlJi4Z9QefBmBD3faacS.jpg",
+      "name": "Margherita Pizza",
+      "size": "12",
+      "crust": "Thin Crust",
+      "toppings": "Tomato sauce, mozzarella cheese, fresh basil, olive oil",
+      "cooking": "Wood-Fired",
+      "price": 400,
+      "description": "A classic Italian pizza known for its simplicity and fresh ingredients, representing the colors of the Italian flag."
+    },
+    {
+      "id": "2",
+      "image": "https://t3.ftcdn.net/jpg/08/13/49/32/240_F_813493219_kURkLjEY8dooqRVuAITKM8pHvhvm3tTE.jpg",
+      "name": "Pepperoni Pizza",
+      "size": "12",
+      "crust": "Thin Crust",
+      "toppings": "Tomato sauce, mozzarella cheese, pepperoni slices",
+      "cooking": "Conventional Oven",
+      "price": 500,
+      "description": "A popular American pizza topped with spicy pepperoni slices, offering a savory and slightly spicy flavor."
+    },
+    {
+      "id": "3",
+      "image": "https://t3.ftcdn.net/jpg/07/54/84/74/240_F_754847471_eDBeDb4s5VCyz02lx4axBtbZQevS3XO5.jpg",
+      "name": "BBQ Chicken Pizza",
+      "size": "14",
+      "crust": "Thick Crust",
+      "toppings": "BBQ sauce, mozzarella cheese, grilled chicken, red onions, cilantro",
+      "cooking": "Brick Oven",
+      "price": 650,
+      "description": "A flavorful pizza with a tangy BBQ sauce base, topped with tender grilled chicken and fresh cilantro."
+    },
+    {
+      "id": "4",
+      "image": "https://t3.ftcdn.net/jpg/08/06/64/08/240_F_806640804_UYL7eXVy0OGg3BPhQLBgM7UbWNwRKNth.jpg",
+      "name": "Veggie Pizza",
+      "size": "10",
+      "crust": "Thin Crust",
+      "toppings": "Tomato sauce, mozzarella cheese, bell peppers, onions, mushrooms, olives, tomatoes",
+      "cooking": "Conventional Oven",
+      "price": 450,
+      "description": "A colorful and healthy option loaded with a variety of fresh vegetables."
+    },
+    {
+      "id": "5",
+      "image": "https://t4.ftcdn.net/jpg/07/64/16/01/240_F_764160185_QTYCC1QYaSD9USB3D2gSt8zRCZQDbU9u.jpg",
+      "name": "Hawaiian Pizza",
+      "size": "12",
+      "crust": "Thick Crust",
+      "toppings": "Tomato sauce, mozzarella cheese, ham, pineapple",
+      "cooking": "Conventional Oven",
+      "price": 500,
+      "description": "A sweet and savory pizza combining ham and pineapple, often sparking debates among pizza lovers."
+    },
+    {
+      "id": "6",
+      "image": "https://t3.ftcdn.net/jpg/07/69/00/22/240_F_769002292_OznBtMiNiTdjJ3l9k3weF3n0zhBWMho8.jpg",
+      "name": "Four Cheese Pizza (Quattro Formaggi)",
+      "size": "12",
+      "crust": "Thin Crust",
+      "toppings": "Tomato sauce, mozzarella, gorgonzola, parmesan, ricotta",
+      "cooking": "Brick Oven",
+      "price": 600,
+      "description": "A rich and creamy pizza featuring a blend of four different cheeses for a decadent taste."
+    },
+    {
+      "id": "7",
+      "image": "https://t3.ftcdn.net/jpg/07/24/12/56/240_F_724125658_qizUgdYsynvoBfL9jg1UIp0TAIiREZFK.jpg",
+      "name": "Meat Lovers Pizza",
+      "size": "12",
+      "crust": "Thick Crust",
+      "toppings": "Tomato sauce, mozzarella cheese, pepperoni, sausage, ham, bacon",
+      "cooking": "Conventional Oven",
+      "price": 600,
+      "description": "A hearty pizza loaded with various meats, perfect for meat enthusiasts."
+    }
+  ]
+}
