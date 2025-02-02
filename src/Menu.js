@@ -13,23 +13,23 @@ function Menu(){
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+                            <Link className="nav-link active" aria-current="page" to="/pizzeria">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link active" aria-current="page" to="/all-items">All items</Link>
+                            <Link className="nav-link active" aria-current="page" to="/pizzeria/all-items">All items</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link active" aria-current="page" to="/about">About Us</Link>
+                            <Link className="nav-link active" aria-current="page" to="/pizzeria/about">About Us</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link active" aria-current="page" to="/contact-us">Contact Us</Link>
+                            <Link className="nav-link active" aria-current="page" to="/pizzeria/contact-us">Contact Us</Link>
                         </li>
                         <li className="nav-item dropdown">
                             <Link className="nav-link active dropdown-toggle" to="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">More</Link>
                             <ul className="dropdown-menu"  style={{ fontSize: '17px' }}>
-                                <li><Link className="dropdown-item" to="/add-new-item">Add item</Link></li>
-                                <li><Link className="dropdown-item" to="/update-item">Update item</Link></li>
-                                <li><Link className="dropdown-item" to="/delete-item">Delete item</Link></li>
+                                <li><Link className="dropdown-item" to="/pizzeria/add-new-item">Add item</Link></li>
+                                <li><Link className="dropdown-item" to="/pizzeria/update-item">Update item</Link></li>
+                                <li><Link className="dropdown-item" to="/pizzeria/delete-item">Delete item</Link></li>
                             </ul>
                         </li>
                     </ul>
