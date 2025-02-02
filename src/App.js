@@ -8,12 +8,13 @@ import DeleteItem from "./DeleteItem";
 import ContactUs from "./ContactUs";
 import Footer from "./Footer";
 import UpdateForm from "./UpdateForm";
+import PageNotFound from "./PageNotFound";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App(){
   return(
     <>
-    <Router basename="/pizzeria">
+    {/* <Router basename="/pizzeria"> */}
       <Menu/>
 
       <Routes>
@@ -26,10 +27,11 @@ function App(){
         <Route path="/delete-item" element={<DeleteItem/>}/>
         <Route path="/contact-us" element={<ContactUs/>}/>
         <Route path="/update-form/:id" element={<UpdateForm/>}/>
+        <Route element={<PageNotFound/>} />
       </Routes>
 
       <Footer/>
-    </Router>
+    {/* </Router> */}
     </>
   )
 }
