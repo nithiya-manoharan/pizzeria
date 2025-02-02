@@ -7,7 +7,6 @@ const PageNotFound = () => {
         <h4>Go back to <a href='https://nithiya-manoharan.github.io/pizzeria/'>Pizzeria</a></h4>
       </>
     );
-  };
+};
   
-  export default PageNotFound;
-  
+export default PageNotFound;

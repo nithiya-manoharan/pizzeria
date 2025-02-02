@@ -27,7 +27,7 @@ function App(){
         <Route path="/delete-item" element={<DeleteItem/>}/>
         <Route path="/contact-us" element={<ContactUs/>}/>
         <Route path="/update-form/:id" element={<UpdateForm/>}/>
-        <Route element={<PageNotFound/>} />
+        <Route path="*" element={<PageNotFound/>} />
       </Routes>
 
       <Footer/>
